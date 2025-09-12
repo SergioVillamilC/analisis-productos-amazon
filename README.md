@@ -20,12 +20,12 @@ Se analiza una base de datos de kaggle, contiene una descripción de los diferen
 ## __Dashboard __
 El archivo `proyect_amazon.pbix` de Power Bi incluye:
 
-* __Aporte de las categorías al precio total__
-* __Precio total de los productos y los productos vendidos en el último mes por categoría__
-* __Precio total de los productos y total de reviews por categoría__
-* __Precio total de los productos según su calificación de estrellas__
-* __Segmentadores de datos__ para las categorías, calificación, compras último mes, bestseller
-*__Tarjeta Total precio de productos__ 
+* Aporte de las categorías al precio total
+* Precio total de los productos y los productos vendidos en el último mes por categoría
+* Precio total de los productos y total de reviews por categoría
+* Precio total de los productos según su calificación de estrellas
+* Segmentadores de datos: para las categorías, calificación, compras último mes,bestseller
+* Tarjeta Total precio de productos
 
 ## __Cómo usar este Proyecto__
 
